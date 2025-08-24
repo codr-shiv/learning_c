@@ -7,7 +7,9 @@ It includes examples, exercises, and small projects that cover syntax, problem-s
 Each file corresponds to an individual program or concept
 
 ## 🚀 Getting Started
-To compile and run any program:
+
 ```bash
+git clone https://github.com/codr-shiv/learning_c
+cd learning_c
 gcc program_name.c -o test
 ./test.exe
